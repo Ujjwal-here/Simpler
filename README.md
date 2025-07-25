@@ -1,3 +1,7 @@
+## Live Demo
+
+[https://simpler-app.onrender.com/](https://simpler-app.onrender.com/)
+
 ## How to Run This Project
 
 1. **Install dependencies:**
